@@ -1,7 +1,7 @@
 # ECommerce_Brazil_Dashboard
 ## Power BI Dashboard of E-Commerce in Brazil between 01/2017 - 08/2018
 
-[Click Here](https://app.powerbi.com/links/vgEnyNcuLw?ctid=11dbbfe2-89b8-4549-be10-cec364e59551&pbi_source=linkShare) to view the dashboard in your browser.
+[Click Here](https://app.powerbi.com/view?r=eyJrIjoiNTNlMDVjNTQtNTkyNy00YTdkLTk5ZmMtZWUzMzY4MWRmMTJjIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9) to view the dashboard in your browser.
 <br>
 <br>
 ### Dashboard Preview:
